@@ -1,0 +1,12 @@
+1) Faça um programa que receba inputs de números inteiros. Ele deve encerrar somente se receber um número negativo. Após o encerramento ele deve imprimir o maior número que recebeu.
+
+2) Desenvolva uma função pontTroca(int *a, int*b) que troque o valor de duas variáveis utilizando ponteiros. Faça um programa principal que receba os 2 valores do usuário, chame a função e depois imprima o resultado das operações.
+
+3) Faça uma função que recebe um vetor de tamanho tam e mude para novoTam. Caso novoTam seja maior que tam, expanda o vetor para o novo tamanho. O novo vetor maior deve ter os elementos do antigo nas mesmas posições e o resto dos elementos = 0.0. 
+Faça um programa principal que receba o primeiro tamanho, aloque o vetor dinamicamente, receba o segundo tamanho, chame a função anterior e depois imprima os resultados.
+
+4) Crie uma estrutura para representar um veículo. Ela deve conter os seguintes dados: marca, modelo, placa, ano de fabricação, cor e quilometragem. Depois, crie um programa principal que receba essas informações do usuário, instancie uma estrutura com os dados inseridos e depois imprima no terminal.
+
+
+5) Crie uma estrutura Endereço que possua rua, número, cidade, estado. Depois crie uma classe completa (com construtor e destrutor) Cadastro que possua os campos nome, cpf, ano de nascimento e endereço (a estrutura anterior). Faça um programa principal que instancie essa classe, receba os dados do terminal e imprima todos.
+
